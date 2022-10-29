@@ -1,5 +1,7 @@
 # DogBreeds SplashScreen
-This is the splash screen version of the app DogBreeds. This project only contains the app's logo, app launch audio, and the splash screen itself -- blank screen appears when opened. You can access the main repo of the app link -- https://github.com/FrancJerah/DogBreeds
+This is the splash screen version of the app DogBreeds. This project only contains the app's logo, app launch audio, and the splash screen itself -- blank screen appears when opened. <br /> <br /> 
+
+You can access the main repo of the app link -- https://github.com/FrancJerah/DogBreeds
 
 ## About DogBreeds
 DogBreeds is an application that provides basic information about dog breeds and helps you identify your dog's breed. It also has a simple user interface for easy navigation.
