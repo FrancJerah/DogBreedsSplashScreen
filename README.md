@@ -10,6 +10,10 @@ DogBreeds is an application that provides basic information about dog breeds and
 * Knowing the the breed’s reliably
 * Easy to use
 
+## Installation
+Download DogBreeds SplashScreen.apk
+Minimum Android Version: 5.0+
+
 ### Made by
 JERAHMEEL HOSHAIAH ACOSIDO FRANCISCO and KARLO JOSE MUYCO FLORES
 
